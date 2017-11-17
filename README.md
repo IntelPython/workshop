@@ -1,4 +1,4 @@
-# ep2017_tutorial_tune_performance
+# Getting Python Performance with Intel(R) Distribution for Python
 Tutorial files and code the EuroPython 2017 tutorial, _A Hands-on Approach to Tuning Python Applications For Performance"._
 
 Requirements:
