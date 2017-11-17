@@ -1,1 +1,1 @@
-%alias amplxe amplxe-cl -c hotspots -q -r hs$$ -- python ./%l && amplxe-gui hs$$
+%alias amplxe amplxe-cl -c hotspots -target-duration-type=veryshort -q -r hs$$ -- python ./%l && amplxe-gui hs$$

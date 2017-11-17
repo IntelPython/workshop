@@ -30,7 +30,7 @@ cimport numpy as np
 from cython cimport boundscheck, wraparound, cdivision, initializedcheck
 from cython.parallel cimport prange, parallel
 from scipy.special import erf as sp_erf
-from libc.stdlib cimport srand, rand, RAND_MAX
+#from libc.stdlib cimport srand, rand, RAND_MAX
 
 # For better performance, use icc
 # cdef extern from "mathimf.h":
