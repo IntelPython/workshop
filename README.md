@@ -1,5 +1,5 @@
 # Getting Python Performance with Intel(R) Distribution for Python
-Tutorial files and code the EuroPython 2017 tutorial, _A Hands-on Approach to Tuning Python Applications For Performance"._
+Tutorial files and code the tutorial, _A Hands-on Approach to Tuning Python Applications For Performance"._
 
 Requirements:
 - [The Intel® Distribution for Python 2018\*](https://software.intel.com/en-us/distribution-for-python)
@@ -16,5 +16,3 @@ Requirements:
 
 Recommended:
 - [Intel® VTune Amplifier 2018 XE or higher](https://software.intel.com/en-us/intel-vtune-amplifier-xe/)
-
-Link here for the tutorial information: [(Tutorial Link from the EuroPython 2017 site)](https://ep2017.europython.eu/conference/talks/a-hands-on-approach-to-tuning-python-applications-for-performance)
