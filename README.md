@@ -6,8 +6,10 @@ Requirements:
   - Jupyter and Jupyter notebooks
   - Python 3.6
   - numpy
+  - scipy
   - scikit-learn
   - mpi4py
+  - matplotlib
 - On Windows: pillow from PyPi (```pip install pillow```)
   
 Recommended:
