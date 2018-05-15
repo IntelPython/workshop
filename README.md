@@ -8,7 +8,7 @@ Requirements:
   - numpy
   - scikit-learn
   - mpi4py
-- pillow (from PyPi)
+- On Windows: pillow from PyPi (```pip install pillow```)
   
 Recommended:
 - [Intel® VTune Amplifier 2018 XE or higher](https://software.intel.com/en-us/intel-vtune-amplifier-xe/)
