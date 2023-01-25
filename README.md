@@ -1,3 +1,7 @@
+# DISCONTINUATION OF PROJECT #
+This project will no longer be maintained by Intel.
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.
+Intel no longer accepts patches to this project.
 # Getting Python Performance with Intel(R) Distribution for Python
 Tutorial files and code the tutorial, _A Hands-on Approach to Tuning Python Applications For Performance"._
 
